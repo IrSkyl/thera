@@ -1,0 +1,22 @@
+[1225/221309.579:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1226/113431.761:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1226/184303.243:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1226/213732.881:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1226/213732.887:ERROR:exception_snapshot_win.cc(99)] thread ID 12844 not found in process
+[1226/213732.896:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1226/213732.897:ERROR:exception_snapshot_win.cc(99)] thread ID 2524 not found in process
+[1226/213732.900:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1226/213732.900:ERROR:exception_snapshot_win.cc(99)] thread ID 10196 not found in process
+[1226/213732.915:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1226/213732.915:ERROR:exception_snapshot_win.cc(99)] thread ID 9436 not found in process
+[1226/222229.776:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1226/223855.387:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1226/223855.403:ERROR:exception_snapshot_win.cc(99)] thread ID 11744 not found in process
+[1226/223855.403:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1226/223855.403:ERROR:exception_snapshot_win.cc(99)] thread ID 11748 not found in process
+[1226/223855.403:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1226/223855.403:ERROR:exception_snapshot_win.cc(99)] thread ID 11740 not found in process
+[1227/000729.673:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1227/081940.031:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1227/182241.865:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1228/165231.983:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
